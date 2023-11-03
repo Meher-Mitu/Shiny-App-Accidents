@@ -1,5 +1,5 @@
 # Car Accident Analysis
-I have analysed the car accidents based on different states and different months of the year.
+I have analysed the car accidents in US in 2021 that have at least one fatality. My analysis was mainly focused on finding out the difference in fatalities and accidents among different states and different months. The dataset I have used is from (https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars)
 
 
 ### Link to My Shiny App:
