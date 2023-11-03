@@ -6,7 +6,7 @@ For this project, I have analyzed the car accidents in US in 2021 that have at l
 https://dyakovleva.shinyapps.io/Assignment_10_Daria_Mitu/
 
 ### App Preview:
-The term fatality rate represents number of fatalities per accident.
+The term 'Fatality Rate' represents number of 'Fatalities' per 'Accident'.
 
 <img width="1390" alt="Screenshot 2023-11-02 at 21 24 44" src="https://github.com/Meher-Mitu/Shiny-App-Accidents/assets/149747118/a109947d-9df4-4d17-a449-17351cc24051">
 
